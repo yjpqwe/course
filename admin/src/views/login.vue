@@ -59,10 +59,6 @@
                                             </fieldset>
                                         </form>
 
-                                        <div class="social-or-login center">
-                                            <span class="bigger-110">Or Login Using</span>
-                                        </div>
-
                                         <div class="space-6"></div>
 
                                     </div><!-- /.widget-main -->
