@@ -78,7 +78,6 @@
         </div><!-- /.col -->
       </div><!-- /.row -->
     </div><!-- /.main-content -->
-  </div><!-- /.main-container -->
 </template>
 
 <script>
