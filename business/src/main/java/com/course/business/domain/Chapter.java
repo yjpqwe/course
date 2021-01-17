@@ -1,4 +1,4 @@
-package com.course.server.domain;
+package com.course.business.domain;
 
 public class Chapter {
     private String id;
