@@ -1,4 +1,4 @@
-package com.course.business.domain;
+package com.course.server.domain;
 
 import java.util.ArrayList;
 import java.util.List;

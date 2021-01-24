@@ -1,10 +1,9 @@
-package com.course.business.mapper;
+package com.course.server.mapper;
 
-import com.course.business.domain.Chapter;
-import com.course.business.domain.ChapterExample;
-import org.apache.ibatis.annotations.Param;
-
+import com.course.server.domain.Chapter;
+import com.course.server.domain.ChapterExample;
 import java.util.List;
+import org.apache.ibatis.annotations.Param;
 
 public interface ChapterMapper {
     long countByExample(ChapterExample example);

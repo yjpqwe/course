@@ -1,6 +1,6 @@
-package com.course.business.domain;
+package com.course.server.dto;
 
-public class Chapter {
+public class ChapterDto {
     private String id;
 
     private String courseId;
